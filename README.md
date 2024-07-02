@@ -1,4 +1,4 @@
-![plot](./About/preview.png)
+![plot](./About/Preview.png)
 An XML patch for LYN's hardtack mod to make it compatible with added flours from various mods. Existing recipes to bake hardtack now accept flour from supported mods, if they are installed.
 
 [h3] Supported Mods [/h3]
