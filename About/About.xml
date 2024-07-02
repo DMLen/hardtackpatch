@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+<packageId>lambda.HardtackFlourPatch</packageId>
+<name>Hardtack Flour Patch</name>
+<author>Lambda</author>
+<description>A patch for LYN's hardtack mod to make it compatible with flours from various mods. Existing recipes to bake hardtack now accept flours from supported mods. Supported mods listed on workshop page.</description>
+
+<supportedVersions>
+  <li>1.5</li>
+</supportedVersions>
+
+<modVersion IgnoreIfNoMatchingField="True">2</modVersion>
+
+<modDependencies>
+  <li>
+    <packageId>ladycookie.hardtack</packageId>
+    <displayName>[LYN] Hardtack</displayName>
+    <steamWorkshopUrl>steam://url/CommunityFilePage/2556210255</steamWorkshopUrl>
+  </li>
+</modDependencies>
+
+</ModMetaData>
