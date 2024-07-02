@@ -9,6 +9,7 @@ An XML patch for LYN's hardtack mod to make it compatible with added flours from
 
 ### Credits
 **LadyCookie** for graciously extending free permission to modify their mods.
+
 **Smash Phil** for their wondrous tool *Xml Patch Helper*.
 
 Steam Download: https://steamcommunity.com/profiles/76561198878117463/myworkshopfiles/?appid=294100
