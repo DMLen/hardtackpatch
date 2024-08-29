@@ -6,6 +6,8 @@ An XML patch for LYN's hardtack mod to make it compatible with added flours from
 ### Supported Mods
 * [Vanilla Cooking Expanded](https://steamcommunity.com/sharedfiles/filedetails/?id=2134308519)
 * [Smokeleaf Industry Reborn](https://steamcommunity.com/sharedfiles/filedetails/?id=2018570327)
+* [Vanilla Plants Expanded - More Plants](https://steamcommunity.com/sharedfiles/filedetails/?id=2748889667)
+* [Medieval Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3219596926)
 
 ### Credits
 **LadyCookie** for graciously extending free permission to modify their mods.
