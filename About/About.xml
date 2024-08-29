@@ -10,7 +10,7 @@
   <li>1.5</li>
 </supportedVersions>
 
-<modVersion IgnoreIfNoMatchingField="True">3.1</modVersion>
+<modVersion IgnoreIfNoMatchingField="True">4</modVersion>
 
 <modDependencies>
   <li>
@@ -19,5 +19,9 @@
     <steamWorkshopUrl>steam://url/CommunityFilePage/2556210255</steamWorkshopUrl>
   </li>
 </modDependencies>
+
+<loadAfter>
+  <li>ladycookie.hardtack</li>
+</loadAfter>
 
 </ModMetaData>
